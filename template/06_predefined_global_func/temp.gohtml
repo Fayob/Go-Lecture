@@ -1,0 +1,19 @@
+First Example
+{{range .}}
+  {{.}}
+{{end}}
+
+SecondExample
+{{range .}}
+  {{if .Name}}
+    {{.Name}} => {{.City}}
+  {{end}}
+{{end}}
+
+Third Example
+{{range .}}
+  {{if and .Name}}
+    {{.Name}} => {{.City}}
+  {{end}}
+{{end}}
+
