@@ -1,7 +1,7 @@
 package main
 
 import (
-	"web_dev/go_and_mongoDB/mvc/controllers"
+	"lecture/go_and_mongoDB/mvc/controllers"
 	"github.com/julienschmidt/httprouter"
 	"net/http"
 )

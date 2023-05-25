@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"net/http"
-	"web_dev/go_and_mongoDB/crud/models"
+	"lecture/go_and_mongoDB/crud/models"
 
 	"github.com/julienschmidt/httprouter"
 	"gopkg.in/mgo.v2"

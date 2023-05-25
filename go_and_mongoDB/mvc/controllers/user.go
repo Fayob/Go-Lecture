@@ -3,7 +3,7 @@ package controllers
 import (
 	"encoding/json"
 	"fmt"
-	"web_dev/go_and_mongoDB/mvc/models"
+	"lecture/go_and_mongoDB/mvc/models"
 	"github.com/julienschmidt/httprouter"
 	"net/http"
 )

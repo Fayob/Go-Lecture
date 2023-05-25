@@ -3,7 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"web_dev/go_and_mongoDB/json/models"
+	"lecture/go_and_mongoDB/json/models"
 	"github.com/julienschmidt/httprouter"
 	"net/http"
 )
